@@ -11,3 +11,9 @@ If you've never used Live Scripts before, they are formatted MATLAB scripts that
 
 * Still others are just projects that I did for fun on the side!
 
+
+## Projects
+
+`lasso-octane.mlx`
+
+This project uses LASSO regularization to build a regression model that predicts the octane value in gasoline samples from NIR (near-infrared) spectra. It allows the user to change the strength of regularization thereby changing the number of features (i.e. wavelengths) that are used in the regression.
